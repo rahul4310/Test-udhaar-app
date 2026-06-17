@@ -1,0 +1,6 @@
+{
+  "name": "Jewellery Udhaar Ledger",
+  "description": "A ledger prototype for jewellery shops to track parties and their balances in gold, silver, and cash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
